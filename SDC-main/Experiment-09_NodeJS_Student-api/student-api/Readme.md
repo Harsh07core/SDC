@@ -47,7 +47,7 @@ Add a Student
 POST /api/students
 Body:
 {
-  "name": "Swayam",
+  "name": "max",
   "age": 21,
   "course": " Mathematics"
 }
@@ -74,4 +74,4 @@ License
 This project is open-source and available under the MIT License
 
 Author
-•tarunteja
+•Harshith Reddy
